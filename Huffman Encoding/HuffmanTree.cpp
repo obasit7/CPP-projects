@@ -1,8 +1,3 @@
-/* Assignent 3
-Names: Osama Bin Basit(Driver)  Chen-Yu Liu (Navigator)
-Weight: 50 - 50
-Unums: U39050886    U39755333
-*/
 #include "HuffmanTree.hpp"
 #include <map>
 
