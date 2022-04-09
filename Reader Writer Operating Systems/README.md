@@ -14,32 +14,6 @@ To run the program:
 
 $ make 
 gcc     -o    rwmain     main.c   -l    pthread
+
  ./rwmain
-Scenario Starts:
-Create Reader
-Reader is reading...
-Create Writer
-Create Reader
-Create Reader
-Create Reader
-Create Reader
-Create Writer
-Create Reader
-Create Reader
-Reader is done reading
-Writer is now writing
-Writer is done writing
-Reader is reading...
-Reader is reading...
-Reader is reading...
-Reader is reading...
-Reader is done reading
-Reader is done reading
-Reader is done reading
-Reader is done reading
-Writer is now writing
-Writer is done writing
-Reader is reading...
-Reader is reading...
-Reader is done reading
-Reader is done reading
+
