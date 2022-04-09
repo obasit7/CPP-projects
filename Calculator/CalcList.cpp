@@ -1,9 +1,3 @@
-/*
-Assignment 1 (Calculator)
-Name: Osama Bin Basit(Driver), Chen-Yu,Liu(Navigator)
-U Number:  U39050886    ,U39755333
-Weightage: driver -50    navigator-50
-*/
 #include "CalcList.hpp"
 
 static double finalTotal = 0;
