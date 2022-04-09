@@ -1,8 +1,3 @@
-/*
-    Names: Osama Bin Basit(driver) and Chen-Yu Liu(navigator)
-    ID:    U39050886                   U39755333
-    Weight:             50 -- 50
-*/
 #include <iostream>
 #include "Graph.hpp"
 
