@@ -1,8 +1,3 @@
-/*
-Assignment 1 (Calculator)
-Name: Osama Bin Basit, Chen-Yu Liu
-U Number: U39050886    ,U39755333
-*/
 #include<iostream>
 #include <sstream>
 #include <iomanip>
