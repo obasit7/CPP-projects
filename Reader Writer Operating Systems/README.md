@@ -1,3 +1,5 @@
+Designed and implemented a readers/writers lock using semaphores that does not starve the  readers and does not starve the writers.
+
 To compile the program:
 - Run make, to compile all the files.
 - Make sure to include main.c and readerwriter.h on the same directory.
@@ -10,10 +12,7 @@ To run the program:
 - The following sccenarios were tested:
   rwrrrrwrr wwrrrrwr  
 
-- An example fro when the process runs for rwrrrrwrr is as follows:
-
 $ make 
 gcc     -o    rwmain     main.c   -l    pthread
-
  ./rwmain
 
