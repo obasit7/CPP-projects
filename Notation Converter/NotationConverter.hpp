@@ -1,9 +1,3 @@
-/*
-Names: Osama Bin Basit(driver)    Chen-Yu Liu(navigator)
-UID:         U39050886                  U39755333
-Weightage:     50-50
-*/
-
 #ifndef NOTATIONCONVERTER_H
 #define NOTATIONCONVERTER_H
 
